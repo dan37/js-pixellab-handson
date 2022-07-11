@@ -69,6 +69,7 @@ var defaultNumber = 6;
 var defaultWarningMessage = `Nu ai introdus un numar. Folosesc ${defaultNumber}`;
 
 var lowerLimit = prompt('Care este limita inferioara');
+
 var i = lowerLimit;
 var number = prompt('Introdu un numar');
 
