@@ -6,7 +6,7 @@ class Car {
     this.speed = speed;
   }
 
-  topSpeed = 160;
+  topSpeed = 170;
   topReverseSpeed = -50;
   areLightsOn = false;
   isTrunkOpen = false;
